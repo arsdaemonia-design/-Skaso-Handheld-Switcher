@@ -1,6 +1,8 @@
 # Skaso Handheld Switcher
 
-Aplicación Windows Forms (C# .NET 8) para activar/desactivar el **Modo Xbox** en Windows 11. 
+**Skaso Handheld Switcher** es una aplicación de código abierto desarrollada en Windows Forms (C# .NET 8) diseñada específicamente para facilitar la activación y desactivación del **Modo Xbox (Xbox Handheld Mode)** en Windows 11. 
+
+Originalmente, esta característica está oculta y requiere modificar el registro del sistema y habilitar IDs experimentales de ViVeTool. Esta herramienta automatiza todo el proceso de forma segura y cuenta con una interfaz amigable (estilo Discord Dark) para alternar el estado del sistema con un solo clic.
 
 ## Requisitos
 
