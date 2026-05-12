@@ -1,0 +1,16 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.dll
+*.exe
+*.pdb
+
+# Excepciones (Archivos incrustados necesarios para compilar)
+!Albacore.ViVe.dll
+!Newtonsoft.Json.dll
+!physpanel.exe
+!ViVeTool.exe
