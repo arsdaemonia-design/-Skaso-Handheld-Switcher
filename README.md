@@ -96,6 +96,15 @@ Manual:
 
 ---
 
+## Agradecimientos
+
+Este proyecto no sería posible sin el increíble trabajo de la comunidad Open Source. Un agradecimiento especial a:
+
+- **[ViVeTool](https://github.com/thebookisclosed/ViVe)**: Creado por [thebookisclosed (Lucas)](https://github.com/thebookisclosed). Herramienta fundamental para interactuar con los feature flags ocultos de Windows.
+- **[physpanel](https://github.com/riverar/physpanel)**: Creado por [riverar (Rafael Rivera)](https://github.com/riverar). Herramienta clave para simular el comportamiento de un panel físico y habilitar la interfaz adaptada.
+
+---
+
 ## ⚠️ Descargo de Responsabilidad (Disclaimer)
 
 Esta herramienta modifica claves del registro del sistema (Registry) y características ocultas de Windows mediante ViVeTool, además de crear tareas programadas con privilegios de `SYSTEM`. 
